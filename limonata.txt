@@ -12,3 +12,8 @@ Nasıl servis edilir?
 Kimlere servis edilir?
 1.Çoluk
 2.Çocuk
+
+Nerede servis edilir?
+1. Okul 
+2. Ev 
+3. Piknik
