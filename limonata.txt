@@ -8,3 +8,7 @@ Malzemeler neler?
 Nasıl servis edilir?
 1. Sürahi
 2. Bardak
+
+Kimlere servis edilir?
+1.Çoluk
+2.Çocuk
